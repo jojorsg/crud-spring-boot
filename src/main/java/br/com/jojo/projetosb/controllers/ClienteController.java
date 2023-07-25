@@ -1,6 +1,6 @@
 package br.com.jojo.projetosb.controllers;
 
-import br.com.jojo.projetosb.models.Cliente;
+import br.com.jojo.projetosb.model.entities.Cliente;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

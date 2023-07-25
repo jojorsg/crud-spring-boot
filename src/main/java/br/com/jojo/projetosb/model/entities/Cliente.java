@@ -1,4 +1,4 @@
-package br.com.jojo.projetosb.models;
+package br.com.jojo.projetosb.model.entities;
 
 public class Cliente {
 
